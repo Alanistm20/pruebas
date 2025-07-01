@@ -72,3 +72,4 @@ public class WebSecurityConfig {
         return httpSecurity.build(); // devuelve toda la configuración de seguridad
     }
 }
+
